@@ -14,7 +14,8 @@ This project uses **MediaPipe**, **OpenCV**, and **Tkinter** to detect hand gest
 - 🟢 Real-time progress bar with Tkinter showing swipe distance
 
 ## 📸 Demo
-game.mp4
+[Watch the demo video](game.mp4)
+
 
 ## 🛠 Technologies Used
 
