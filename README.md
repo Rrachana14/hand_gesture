@@ -14,7 +14,7 @@ This project uses **MediaPipe**, **OpenCV**, and **Tkinter** to detect hand gest
 - 🟢 Real-time progress bar with Tkinter showing swipe distance
 
 ## 📸 Demo
-game.py
+game.mp4
 
 ## 🛠 Technologies Used
 
@@ -29,7 +29,6 @@ pip install opencv-python mediapipe pyautogui
 
 
 Clone the repository:
-
 ```bash
 git clone https://github.com/Rrachana14/hand_gesture.git
 
